@@ -1,4 +1,4 @@
-# CNNLP_LAB
+# CLNLP_LAB
 
 ## Prerequisites
 
