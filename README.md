@@ -21,6 +21,7 @@ Some experiments read data from a mounted Google Drive folder (`/content/drive/M
 |---|-------|-----------------|
 | 1 | Data Analysis | pandas groupby/aggregation, matplotlib (bar, pie, histogram, scatter) |
 | 2 | Basic Text Preprocessing | text cleaning, tokenization (regex/NLTK/spaCy), stop-word removal |
+| 9 | Mini Project: Hinglish Cyberbullying Detection | multiclass classification, TF-IDF (word + char n-grams), Naive Bayes / Logistic Regression / Linear SVM, fine-tuned MuRIL transformer - see [Experiment_9/](Experiment_9/README.md) |
 
 
 Each notebook is self-contained: markdown cells state the task, followed by the code and its output/visualization.
