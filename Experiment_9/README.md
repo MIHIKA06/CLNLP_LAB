@@ -4,7 +4,7 @@ A multiclass NLP text classification project that detects **cyberbullying and it
 
 > ⚠️ The dataset contains offensive and abusive language. It is used only for research and education.
 
-**Team:** _add member names and roll numbers here_
+**Team:** Mihika, Yash Parmar, Diptanshu Banerjee
 
 ---
 
